@@ -1,1 +1,2 @@
-# data_viz
+# CSC465_DataVisualization
+We sought to investigate grocery retailers through multiple data visualization techniques from data set called “The Complete Journey” released from the data science firm, dunnhumby. Doing so would help retailers have better understanding of buyer habits and product relationship to improve their marketing strategies. The data set we chose is consisted of 276,484 transactions, 2,500 households’ demographic details, and 92,353 items of products. We divided up into two big aspects of the investigation—marketing and product relationship aspects. 
